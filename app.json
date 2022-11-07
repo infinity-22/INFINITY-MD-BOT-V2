@@ -1,8 +1,8 @@
 {
-  "name": "RED DRAGON BOT",
-  "description": "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘔𝘋 | By: RED-DRAGONᵀᴹ | 𝐌𝐑: ☬𝔻𝔸ℝ𝕂༒ℕ𝕀𝕋ℝ𝕆࿐",
-  "repository": "https://github.com/prabhasha2006/Red-Dragon",
-  "logo": "https://i.ibb.co/VCtXyTK/20220730-002949.jpg",
+  "name": "❰ 𝗜𝗡𝗙𝗜𝗡𝗜𝗧𝗬 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗕𝗢𝗧 ❱",
+  "description": "INFINITY-MD-BOT-V2| By: 𝙸𝙽𝙵𝙸𝙽𝙸𝚃𝚈 ²⁰²²",
+  "repository": "https://github.com/infinity-22/INFINITY-MD-BOT-V2",
+  "logo": "https://i.ibb.co/YZzY3NX/photo-2022-10-14-23-36-17.png",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
